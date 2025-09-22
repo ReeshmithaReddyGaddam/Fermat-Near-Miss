@@ -1,7 +1,6 @@
 """
 Fermat Near Miss Finder
 
-This version accepts command-line arguments instead of interactive input.
 Usage:
     python fermat_near_miss.py <n> <k>
 Example:
