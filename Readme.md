@@ -1,4 +1,4 @@
-# Fermat Near Miss Finder (Python Version 3)
+# Fermat Near Miss Finder
 
 ## Overview
 This program explores near misses of Fermat's Last Theorem, taking inputs as **command-line arguments**.
